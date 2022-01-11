@@ -1,6 +1,10 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sansui-d&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sansui-d&theme=radical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=material-palenight">
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sansui-d&show_icons=true&theme=material-palenight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sansui-d&theme=material-palenight">
 </p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -28,12 +32,6 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-
- 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=redical">
-</p>
-
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sansui-d&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sansui-d&show_icons=true&locale=en&layout=compact&theme=material-palenight&line_height=0" />
 </p>
