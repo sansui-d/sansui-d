@@ -1,37 +1,32 @@
+<h2 align="center">Recently submitted <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=material-palenight">
 </p>
 
+<h2 align="center">My stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sansui-d&show_icons=true&theme=material-palenight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sansui-d&theme=material-palenight">
 </p>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-
+</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-vue-green?style=flat&logo=vue.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Express.js-558ac5?style=flat&logo=Express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-react-blue?style=flat&logo=React&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-VS%20Code-4DB33D?style=flat&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sansui-d&show_icons=true&locale=en&layout=compact&theme=material-palenight&line_height=0" />
-</p>
