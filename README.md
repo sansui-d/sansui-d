@@ -1,19 +1,16 @@
-<h2 align="center">Recently submitted <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">My stats</h2>
+<p align = "center">
+  <img width=450 height=200 src = "https://github-readme-stats.vercel.app/api?username=sansui-d&show_icons=true&theme=material-palenight&line_height=27">
+  <img width=450 height=200 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sansui-d&theme=material-palenight&layout=compact">
+</p>
+
+
+<h2 align="center">Recently submitted</h2>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=material-palenight">
 </p>
 
-<h2 align="center">My stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sansui-d&show_icons=true&theme=material-palenight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sansui-d&theme=material-palenight">
-</p>
-
-
-<p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-</p>
-
+<h2 align="center">Technology Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
