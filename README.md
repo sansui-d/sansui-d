@@ -3,7 +3,6 @@
   <img width=400 height=200 src = "https://github-readme-stats.vercel.app/api?username=sansui-d&show_icons=true&theme=material-palenight&line_height=27">
   <img width=360 height=200 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sansui-d&theme=material-palenight&layout=compact">
 </p>
-
 <h2 align="center">Recently Submitted</h2>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=material-palenight">
