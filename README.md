@@ -5,7 +5,7 @@
 </p>
 <h2 align="center">Recently Submitted</h2>
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=react">
+ <img src = "https://activity-graph.herokuapp.com/graph?username=sansui-d&theme=react">
 </p>
 
 <h2 align="center">Technology Stack</h2>
